@@ -1,5 +1,9 @@
 # Awesome-File-Activity-Monitoring
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome File Activity Monitoring Banner" width="100%">
+</p>
+
 ## Similar Projects to File Activity Monitoring Platforms
 
 **File Activity Monitoring** (also called File Integrity Monitoring / FIM, Data Access Governance, or File Server Auditing) tools track who accessed, modified, created, deleted, or changed permissions on files and folders. They are widely used for security, compliance (PCI-DSS, HIPAA, GDPR), insider threat detection, and forensic investigations. Leading commercial platforms include Varonis, Netwrix Auditor, ManageEngine ADAudit Plus, Quest Change Auditor, Lepide Auditor, Stealthbits, Egnyte Protect, SolarWinds Access Rights Manager, and PA File Sight.
