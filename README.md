@@ -8,15 +8,17 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Varonis](https://www.varonis.com/)** — Leading data security platform with deep file activity monitoring, permissions analysis, and threat detection across unstructured data.
-- **[Netwrix Auditor](https://www.netwrix.com/)** — Comprehensive auditing solution for file servers, Active Directory, and other systems with strong reporting and compliance features.
-- **[ManageEngine ADAudit Plus](https://www.manageengine.com/products/active-directory-audit/)** — Popular tool for Active Directory and file server auditing, change tracking, and compliance reporting.
-- **[Quest Change Auditor](https://www.quest.com/products/change-auditor/)** — Real-time change auditing for Microsoft environments, including file systems and AD.
-- **[Lepide Auditor](https://www.lepide.com/)** — File server and AD auditing with permissions analysis and threat detection.
-- **[Stealthbits Auditor](https://www.stealthbits.com/)** (now part of Netwrix in many contexts) — Data access governance and auditing solutions.
-- **[Egnyte Protect](https://www.egnyte.com/)** — Content security and activity monitoring focused on cloud and hybrid file storage.
-- **[SolarWinds Access Rights Manager](https://www.solarwinds.com/access-rights-manager)** — Permissions management and access rights auditing.
-- **[PA File Sight](https://www.poweradmin.com/file-sight/)** — Real-time file access monitoring and auditing for Windows file servers.
+| Product | Description | Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Varonis](https://www.varonis.com/)** | Leading data security platform with deep file activity monitoring, permissions analysis, and threat detection across unstructured data. | Custom enterprise pricing (requires quote) | No free tier; offers a complimentary Data Risk Assessment & 30-day free trial. |
+| **[Netwrix Auditor](https://www.netwrix.com/)** | Comprehensive auditing solution for file servers, Active Directory, and other systems with strong reporting and compliance features. | Custom enterprise pricing (requires quote) | Free Community Edition (limited to reporting on changes in the last 24 hours). 20-day free trial of Enterprise Edition. |
+| **[ManageEngine ADAudit Plus](https://www.manageengine.com/products/active-directory-audit/)** | Popular tool for Active Directory and file server auditing, change tracking, and compliance reporting. | Subscriptions start at $745/year for Standard Edition | Free Edition available (limited to auditing up to 25 workstations; stops collecting new data for servers after 30-day trial). |
+| **[Quest Change Auditor](https://www.quest.com/products/change-auditor/)** | Real-time change auditing for Microsoft environments, including file systems and AD. | Custom enterprise pricing (requires quote) | No free tier; 30-day free trial. |
+| **[Lepide Auditor](https://www.lepide.com/)** | File server and AD auditing with permissions analysis and threat detection. | Custom enterprise pricing (requires quote) | No free tier; 20-day free trial of the full platform. |
+| **[Stealthbits Auditor](https://www.stealthbits.com/)** (now part of Netwrix) | Data access governance and auditing solutions. | Custom enterprise pricing (requires quote) | No free tier; 20-day enterprise free trial. |
+| **[Egnyte Protect](https://www.egnyte.com/)** | Content security and activity monitoring focused on cloud and hybrid file storage. | Paid plans (Secure & Govern) require custom quote | No free tier; 14-day free trial of the core platform (typically capped at 20GB). |
+| **[SolarWinds Access Rights Manager](https://www.solarwinds.com/access-rights-manager)** | Permissions management and access rights auditing. | Custom enterprise pricing (requires quote) | 30-day fully functional free trial. Also offers a 100% free standalone Access Rights Auditor tool. |
+| **[PA File Sight](https://www.poweradmin.com/file-sight/)** | Real-time file access monitoring and auditing for Windows file servers. | Subscriptions start at $30/month per server | No free tier; 30-day fully functional free trial. |
 
 ## 🔓 Open-Source Software
 
